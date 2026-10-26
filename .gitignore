@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.idea/
+data/*.pcap
+results/alerts.jsonl
+results/blocklist.txt
